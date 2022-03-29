@@ -1,3 +1,12 @@
+## Hello Guys
+This is my first [Next.js](https://nextjs.org/) project. I tried to build clone of a [Hulu](https://www.hulu.com/welcome)(YEEEEEEESSSSSS!)
+
+I hope you guys enjoy it. Let's go and try it [here](https://hulu-nextjs-livid.vercel.app/) 
+
+### Thank you so much. I appreciate that!
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
