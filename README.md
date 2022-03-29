@@ -1,7 +1,7 @@
 ## Hello Guys
 This is my first [Next.js](https://nextjs.org/) project. I tried to build clone of a [Hulu](https://www.hulu.com/welcome)(YEEEEEEESSSSSS!)
 
-I hope you guys enjoy it. ### Let's go and try it [here](https://hulu-nextjs-livid.vercel.app/) 
+I hope you guys enjoy it. LET'S GO AND TRY IT [HERE](https://hulu-nextjs-livid.vercel.app/) 
 
 ### Thank you so much. I appreciate that!
 
